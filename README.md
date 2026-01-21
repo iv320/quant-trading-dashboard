@@ -1,27 +1,29 @@
-# Quant Trading Dashboard
+# Real-Time Quant Trading Dashboard
 
-This project implements an interactive dashboard to visualize financial market data and quantitative trading strategy performance.
+## Live Application
+Deployed on Streamlit Cloud:  
+https://quant-trading-dashboard-new-4bvb2zhpmul5mx67arpyce.streamlit.app/
 
-## Objectives
-- Visualize live market price movements
-- Display strategy performance and risk metrics
-- Support data-driven trading and research decisions
-
-## Dashboard Features
-- Real-time stock price charts
-- Strategy returns vs Buy & Hold
-- Key performance indicators:
-  - Total P&L
-  - Sharpe Ratio
-  - Maximum Drawdown
-- Ticker and date range selection
+## Overview
+This project is a real-time quantitative trading analytics dashboard built to analyze market data and strategy performance.
 
 ## Tech Stack
 - Python
 - Streamlit
-- Pandas
-- NumPy
+- Pandas, NumPy
 - yfinance
+- Matplotlib
 
-## Use Case
-Designed for internal trading and research teams to monitor strategy performance and market behavior.
+## Key Analytics
+- Real-time market price visualization
+- Trading signal generation
+- Strategy P&L tracking
+- Risk and performance metrics (Sharpe Ratio, Drawdown)
+
+## Deployment
+- Application deployed on **Streamlit Cloud**
+- Directly integrated with this GitHub repository
+- Automatically updates on code changes
+
+## Impact
+Enabled real-time visibility into quantitative trading strategies and market behavior through an interactive analytics dashboard.
