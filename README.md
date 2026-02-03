@@ -2,8 +2,8 @@
 
 ## Live Application
 Deployed on Streamlit Cloud:  
-https://quant-trading-dashboard-new-4bvb2zhpmul5mx67arpyce.streamlit.app/
-
+[Deployed link
+](https://quant-trading-dashboard-ishaverma.streamlit.app/)
 ## Overview
 This project is a real-time quantitative trading analytics dashboard built to analyze market data and strategy performance.
 
